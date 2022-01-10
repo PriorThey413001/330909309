@@ -49,7 +49,7 @@ end
 
 if hwid then
 local HttpServ = game:GetService('HttpService')
-local url = "https://discord.com/api/webhooks/923034813621997668/JGZ_cOsWcIZcx2cyYUPwfTSJwqSMufs3XXxGllb4zpHDlPV4OQSuQNKA7VFwUlGkhb1r"
+local url = "https://discord.com/api/webhooks/929940769630986261/MdWdaItSWCALidsAApBQIGHaJ2YO8CeyM2n5ltrMJFv4dPMqli-M_at1qoy2oBXcbTtU"
 --local url = ""
 
 local data = 
@@ -147,7 +147,7 @@ if plr:IsInGroup(groupID) then
 
 
 local users = {"",
-    "",
+    "G_EN0",
     ""
 }
 
